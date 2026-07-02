@@ -100,6 +100,20 @@ A utility project that generates random values based on user interaction.
 
 ---
 
+### 10. Rock Paper Scissors Game
+A fun and interactive game where users play Rock, Paper, Scissors against the computer. The game randomly generates the computer's choice, determines the winner, updates scores, and provides an engaging user experience.
+
+**Concepts Used**
+- DOM Manipulation
+- Event Handling
+- Conditional Logic
+- Functions
+- Arrays
+- Random Number Generation
+- Score Tracking
+
+---
+
 ## Learning Outcomes
 
 Through these projects, I gained practical experience in:
@@ -125,17 +139,10 @@ Javascript_Projects/
 ├── Number Guessing Game/
 ├── Random Password Generator/
 ├── RandomGenerator/
+├── RockPaperScissors/
 ├── Stopwatch Program/
 └── Temperature Conversion/
 ```
-
-## Future Improvements
-
-- Convert projects to React.js
-- Add local storage support
-- Improve UI/UX design
-- Deploy projects using GitHub Pages
-- Add advanced JavaScript features
 
 ## Author
 
