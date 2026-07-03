@@ -148,6 +148,6 @@ Javascript_Projects/
 
 **Hasini Ambati**
 
-- GitHub: https://github.com/hasiniambati23
+- GitHub: https://github.com/hasiniambati
 
 ---
