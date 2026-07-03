@@ -132,16 +132,16 @@ Through these projects, I gained practical experience in:
 ```text
 Javascript_Projects/
 │
-├── CheckedProperty/
-├── Counter App/
-├── Dice Roller/
-├── Digital Clock Program/
-├── Number Guessing Game/
-├── Random Password Generator/
-├── RandomGenerator/
-├── RockPaperScissors/
-├── Stopwatch Program/
-└── Temperature Conversion/
+├── checked-property/
+├── counter-app/
+├── dice-roller/
+├── digital-clock/
+├── number-guessing-game/
+├── random-password-generator/
+├── random-generator/
+├── rock-paper-scissors/
+├── stopwatch/
+└── temperature-conversion/
 ```
 
 ## Author
